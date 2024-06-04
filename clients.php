@@ -93,7 +93,6 @@ $result = $koneksi->query($sql);
     }
     .review .card h3 {
       margin: 15px 0 10px;
-      font-size: 1.2em;
       color: #333;
     }
     .review .stars i {
